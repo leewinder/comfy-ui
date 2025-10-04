@@ -1,0 +1,10 @@
+---
+description: Project and Structure Overview
+alwaysApply: true
+---
+
+- ComfyUI Fork
+    - Project Fork: This is a fork of https://github.com/comfyanonymous/ComfyUI
+    - Access Privilege: You are permitted to read, investigate, and analyze the content of files and sub-folders within the application, but only edit files in the <root>/custom_scripts/ folder
+    - Git Management: You are permitted to perform Git operations on this project and manage any Git related files such as .gitmodules
+
